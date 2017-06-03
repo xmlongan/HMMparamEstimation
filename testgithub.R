@@ -3,3 +3,4 @@ plot(rnorm(100),col="pink")
 # ok, let's try commit command!!!
 plot(rexp(100),col="blue")
 # add another line
+plot(runif(100),col="pink")
